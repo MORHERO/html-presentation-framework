@@ -1,0 +1,74 @@
+/***********************************************
+	2 GRID FIELD VERTICAL DESIGNS
+***********************************************/
+/****** 90/10 ******/
+.grid9010 .first{ float: left; height: 100%;	width: 90%; } .grid9010 .second{ float: right; height: 100%; width: 10%; }
+/****** 80/20 ******/
+.grid8020 .first{ float: left; height: 100%;	width: 80%; } .grid8020 .second{ float: right; height: 100%; width: 20%; }
+/****** 70/30 ******/
+.grid7030 .first{ float: left; height: 100%;	width: 70%; } .grid7030 .second{ float: right; height: 100%; width: 30%; }
+/****** 60/40 ******/
+.grid6040 .first{ float: left; height: 100%;	width: 60%; } .grid6040 .second{ float: right; height: 100%; width: 40%; }
+/****** 50/50 ******/
+.grid5050 .first{ float: left; height: 100%;	width: 50%; } .grid5050 .second{ float: right; height: 100%; width: 50%; }
+/****** 40/60 ******/
+.grid4060 .first{ float: left; height: 100%;	width: 40%; } .grid4060 .second{ float: right; height: 100%; width: 60%; }
+/****** 30/70 ******/
+.grid3070 .first{ float: left; height: 100%;	width: 30%; } .grid3070 .second{ float: right; height: 100%; width: 70%; }
+/****** 20/80 ******/
+.grid2080 .first{ float: left; height: 100%;	width: 20%; } .grid2080 .second{ float: right; height: 100%; width: 80%; }
+/****** 10/90 ******/
+.grid1090 .first{ float: left; height: 100%;	width: 10%; } .grid1090 .second{ float: right; height: 100%; width: 90%; }
+
+/***********************************************
+	3 GRID FIELD VERTICAL DESIGNS
+***********************************************/
+/****** 80/10/10 ******/
+.grid801010 .first{ float: left; height: 100%;	width: 80%; } .grid801010 .second{ float: left; height: 100%; width: 10%; } .grid801010 .third{ float: right; height: 100%; width: 10%; }
+/****** 10/80/10 ******/
+.grid108010 .first{ float: left; height: 100%;	width: 10%; } .grid108010 .second{ float: left; height: 100%; width: 80%; } .grid108010 .third{ float: right; height: 100%; width: 10%; }
+/****** 10/10/80 ******/
+.grid101080 .first{ float: left; height: 100%;	width: 10%; } .grid101080 .second{ float: left; height: 100%; width: 10%; } .grid101080 .third{ float: right; height: 100%; width: 80%; }
+/****** 60/20/20 ******/
+.grid602020 .first{ float: left; height: 100%;	width: 60%; } .grid602020 .second{ float: left; height: 100%; width: 20%; } .grid602020 .third{ float: right; height: 100%; width: 20%; }
+/****** 20/60/20 ******/
+.grid206020 .first{ float: left; height: 100%;	width: 20%; } .grid206020 .second{ float: left; height: 100%; width: 60%; } .grid206020 .third{ float: right; height: 100%; width: 20%; }
+/****** 20/20/60 ******/
+.grid202060 .first{ float: left; height: 100%;	width: 20%; } .grid202060 .second{ float: left; height: 100%; width: 20%; } .grid202060 .third{ float: right; height: 100%; width: 60%; }
+/****** 40/30/30 ******/
+.grid403030 .first{ float: left; height: 100%;	width: 40%; } .grid403030 .second{ float: left; height: 100%; width: 30%; } .grid403030 .third{ float: right; height: 100%; width: 30%; }
+/****** 30/40/30 ******/
+.grid304030 .first{ float: left; height: 100%;	width: 30%; } .grid304030 .second{ float: left; height: 100%; width: 40%; } .grid304030 .third{ float: right; height: 100%; width: 30%; }
+/****** 30/30/40 ******/
+.grid303040 .first{ float: left; height: 100%;	width: 30%; } .grid303040 .second{ float: left; height: 100%; width: 30%; } .grid303040 .third{ float: right; height: 100%; width: 40%; }
+/****** 20/40/40 ******/
+.grid204040 .first{ float: left; height: 100%;	width: 20%; } .grid204040 .second{ float: left; height: 100%; width: 40%; } .grid204040 .third{ float: right; height: 100%; width: 40%; }
+/****** 40/20/40 ******/
+.grid402040 .first{ float: left; height: 100%;	width: 40%; } .grid402040 .second{ float: left; height: 100%; width: 20%; } .grid402040 .third{ float: right; height: 100%; width: 40%; }
+/****** 40/40/20 ******/
+.grid404020 .first{ float: left; height: 100%;	width: 40%; } .grid404020 .second{ float: left; height: 100%; width: 40%; } .grid404020 .third{ float: right; height: 100%; width: 20%; }
+/****** 33/34/33 ******/
+.grid333433 .first{ float: left; height: 100%;	width: 33%; } .grid333433 .second{ float: left; height: 100%; width: 34%; } .grid333433 .third{ float: right; height: 100%; width: 33%; }
+
+
+/***************************************************
+	2 GRID FIELD HORIZONTAL DESIGNS
+***************************************************/
+/****** 90/10 ******/
+.grid9010ho .first{ width: 100%;	height: 90%; } .grid9010ho .second{ width: 100%; height: 10%; }
+/****** 80/20 ******/
+.grid8020ho .first{ width: 100%;	height: 80%; } .grid8020ho .second{ width: 100%; height: 20%; }
+/****** 70/30 ******/
+.grid7030ho .first{ width: 100%;	height: 70%; } .grid7030ho .second{ width: 100%; height: 30%; }
+/****** 60/40 ******/
+.grid6040ho .first{ width: 100%;	height: 60%; } .grid6040ho .second{ width: 100%; height: 40%; }
+/****** 50/50 ******/
+.grid5050ho .first{ width: 100%;	height: 50%; } .grid5050ho .second{ width: 100%; height: 50%; }
+/****** 40/60 ******/
+.grid4060ho .first{ width: 100%;	height: 40%; } .grid4060ho .second{ width: 100%; height: 60%; }
+/****** 30/70 ******/
+.grid3070ho .first{ width: 100%;	height: 30%; } .grid3070ho .second{ width: 100%; height: 70%; }
+/****** 20/80 ******/
+.grid2080ho .first{ width: 100%;	height: 20%; } .grid2080ho .second{ width: 100%; height: 80%; }
+/****** 10/90 ******/
+.grid1090ho .first{ width: 100%;	height: 10%; } .grid1090ho .second{ width: 100%; height: 90%; }
