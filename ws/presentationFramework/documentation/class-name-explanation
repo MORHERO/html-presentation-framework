@@ -1,0 +1,12 @@
+.presWrapper ----------------------------> Gives an padding to the presentation 
+.pageWrapper ----------------------------> Seperates the presentation sites
+.page -----------------------------------> Needed to default style a site and to create an all page count (for example including frontpage)
+.normalPage -----------------------------> Needed for JavaScript to jump to the next page and make a page counter for the content pages.
+.content --------------------------------> Defines the element that contains the content
+.pageNumber -----------------------------> Styles the pageNumber
+
+
+#startpage ------------------------------>
+#normalPage* ---------------------------->
+#endPage -------------------------------->
+#pageNumber ----------------------------->  

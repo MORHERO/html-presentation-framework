@@ -1,0 +1,32 @@
+.cm-startpage {
+
+}
+
+.cm-page {
+    background-color : #CCC;
+
+}
+
+.cm-endpage {
+
+}
+
+.cm-content {
+    background-color: #FFF;
+    width: 90%;
+    height: 80%;
+    position: absolute;
+    bottom: 50px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    box-shadow: grey 4px 7px 7px;
+    padding: 10px;
+}
+
+.cm-header {
+    position: absolute;
+    top: 45px;
+    left: 50px;
+    font-size: 24px;
+    font-family: Verdana;
+}

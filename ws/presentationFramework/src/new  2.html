@@ -1,0 +1,14 @@
+
+<HTML>
+<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="../src/css/main.css">
+	<link rel="stylesheet" type="text/css" href="../src/css/grid.css">
+	<script src="js/FileSaver.min.js"></script>
+	<title>Presentation</title>
+</head>
+<body></body></HTML>
+
+<script>
+var blob = new Blob(["Hello, world!"], {type: "text/plain;charset=utf-8"});
+saveAs(blob, "hello world.txt");
